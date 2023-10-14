@@ -1,0 +1,6 @@
+[submodule "ArmMotionPlan_array"]
+	path = ArmMotionPlan_array
+	url = https://github.com/ChenmoshaoAlen/ArmMotionPlan_array.git
+[submodule "StationLinearPath"]
+	path = StationLinearPath
+	url = https://github.com/ChenmoshaoAlen/StationLinearPath.git
