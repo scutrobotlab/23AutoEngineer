@@ -40,6 +40,12 @@
 - RTOS，或其他可以执行循环的环境即可。
 - C库 math.h
 
+## 文件架构说明
+
+`ArmMotionPlan_array`与`StationLinearPath`为电控代码，用子模块链接。
+
+`Linemod-Real`与`Linemod-Render`为视觉部分代码，视觉部分详细细节可以参考PDF [RM2023-华南理工大学-华南虎-工程视觉开源.pdf](RM2023-华南理工大学-华南虎-工程视觉开源.pdf) 
+
 ## **原理与理论支持分析**
 
 对于自动兑矿和自动取矿，实际操作中仅需分为2个步骤来考虑：
