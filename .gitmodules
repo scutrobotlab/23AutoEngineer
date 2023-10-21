@@ -4,9 +4,3 @@
 [submodule "StationLinearPath"]
 	path = StationLinearPath
 	url = https://github.com/ChenmoshaoAlen/StationLinearPath.git
-[submodule "Linemod-Real"]
-	path = Linemod-Real
-	url = https://gitee.com/yu-chenghuan/Linemod-Real.git
-[submodule "Linemod-Render"]
-	path = Linemod-Render
-	url = https://gitee.com/yu-chenghuan/Linemod-Render.git
